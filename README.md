@@ -2,9 +2,9 @@
 A decentralized social network based on people not platforms
 
 All social networks are pretty much built upon: 
-  -People (publishing various forms of content which others can follow and respond to)
-  -Servers (to store the data)
-  -Advertising
+  1. People (publishing various forms of content which others can follow and respond to)
+  2. Servers (to store the data)
+  3. Advertising
  
 Advancements in technology (current and prospective) will allow for the decentralization of both servers and advertising thus allowing the disintermediation of all social media platforms. New models of advertising such as Brave are on the horizon which will create better incentive models for all participants involved. The Lightning Network will enable the formation of anyone running a node to create a "decentralized identity" and thus sign messages from that identity, immutably publish them to servers.
 
