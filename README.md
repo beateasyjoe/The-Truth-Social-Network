@@ -6,7 +6,7 @@ All social networks are pretty much built upon:
   2. Servers (to store the data)
   3. Advertising
  
-Advancements in technology (current and prospective) will allow for the decentralization of both servers and advertising thus allowing the disintermediation of all social media platforms. New models of advertising such as Brave are on the horizon which will create better incentive models for all participants involved. The Lightning Network will enable the formation of anyone running a node to create a "decentralized identity" and thus sign messages from that identity, immutably publish them to servers.
+Advancements in technology (current and prospective) will allow for the decentralization of both servers and advertising thus allowing the disintermediation of all social media platforms. New models of advertising such as Brave are on the horizon which will create better incentive models for all participants involved. The Lightning Network will enable anyone running a node to create a "decentralized identity" and thus sign messages from that identity, immutably publish them to servers.
 
 The ability to to create a website using your own server (.crypto? .onion?) can provide a large bulk of the burden on storing data. Users can publish all their own content on their website in various forms i.e. short statements or "dimes" blog-like pieces or "ounces" or long-form papers "pounds." ...of course users can upload all forms of content as well (picutes, short videos, long videos, audio, etc).
 
